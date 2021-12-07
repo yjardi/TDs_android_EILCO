@@ -29,10 +29,10 @@
         android:id="@+id/image"
         android:layout_width="50dp"
         android:layout_height="50dp"
-        android:layout_marginStart="100dp"
+        android:layout_marginStart="200dp"
         android:src="@drawable/cat"
         app:layout_constraintBottom_toBottomOf="@+id/Prenom"
-        app:layout_constraintStart_toEndOf="@+id/Nom"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1.0"/>
+        app:layout_constraintVertical_bias="1.0" />
 </androidx.constraintlayout.widget.ConstraintLayout>
