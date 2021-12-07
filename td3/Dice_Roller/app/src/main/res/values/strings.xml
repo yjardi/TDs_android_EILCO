@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice_Roller</string>
+    <string name="lancer_de_des">Lancer le dé</string>
+    <string name="text_debut"></string>
+</resources>
